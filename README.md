@@ -1,10 +1,10 @@
 
 <!-- ![Web-developer](https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png) -->
-<h1 align="center"> नमस्ते, I'm Saurav Kulshrestha 😎</h1>
+<h1 align="center"> नमस्ते, I'm Pranjul Kulshrestha 😎</h1>
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-<!-- ### Hello! I'm Pranjul Kulshrestha a Developer from India. -->
+<!-- ### Hello! I'm Pranjul Kulshrestha a Full Stack Developer from India. -->
 
 
 <!-- <a href="https://twitter.com/dhanani_brijesh">
@@ -67,7 +67,7 @@
 <br>
 
 
-![Saurav's github stats](https://github-readme-stats.vercel.app/api?username=sauravkulshrestha&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+![Pranjul's github stats](https://github-readme-stats.vercel.app/api?username=sauravkulshrestha&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravkulshrestha&theme=dark" alt="sauravkulshrestha" /></p>
