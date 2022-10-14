@@ -23,9 +23,9 @@
 
 <!-- <a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a> -->
 
-<a href="https://www.linkedin.com/in/pranjul-kulshrestha-820496124"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-saurav kulshrestha-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/pranjul-kulshrestha-820496124"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pranjul kulshrestha-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/pranjul kulshrestha/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-saurav kulshrestha-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/pranjul kulshrestha/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-pranjul kulshrestha-black?style=flat-square&logo=instagram"></a>
 
 <a href="mailto:pranjulkul@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pranjulkul@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
