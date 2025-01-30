@@ -1,6 +1,6 @@
 <h1 align="center"> नमस्ते : Namastey, I'm Pranjul Kulshrestha 😎</h1>
     
-## Welcome to my world of Data Science and Analytics <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## Welcome to my world of Data Science and Analytics 🌍
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pranjul-kulshrestha-820496124"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pranjul%20kulshrestha-blue?style=flat-square&logo=linkedin"></a>
@@ -10,29 +10,39 @@
 <br />
 <br />
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  
+<p align="center">
+  <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400"/>
+</p>
+
+---
+
 ### 👨‍💻 Technologies I Use
 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/pranjulkulshrestha)](https://github.com/pranjulkulshrestha) 
-[![SQL](https://img.shields.io/badge/-SQL-026f39?style=flat&logo=python&link=https://github.com/pranjulkulshrestha)](https://github.com/pranjulkulshrestha) 
-[![PowerBI](https://img.shields.io/badge/-PowerBI-black?style=flat&logo=powerbi&link=https://github.com/pranjulkulshrestha)](https://github.com/pranjulkulshrestha) 
-[![Azure](https://img.shields.io/badge/-Azure-blue?style=flat&logo=microsoftazure&link=https://github.com/pranjulkulshrestha)](https://github.com/pranjulkulshrestha)
+<p align="center">
+  <a href="https://github.com/pranjulkulshrestha"><img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/pranjulkulshrestha"></a> 
+  <a href="https://github.com/pranjulkulshrestha"><img alt="SQL" src="https://img.shields.io/badge/-SQL-026f39?style=flat&logo=python&link=https://github.com/pranjulkulshrestha"></a>
+  <a href="https://github.com/pranjulkulshrestha"><img alt="PowerBI" src="https://img.shields.io/badge/-PowerBI-black?style=flat&logo=powerbi&link=https://github.com/pranjulkulshrestha"></a>
+  <a href="https://github.com/pranjulkulshrestha"><img alt="Azure" src="https://img.shields.io/badge/-Azure-blue?style=flat&logo=microsoftazure&link=https://github.com/pranjulkulshrestha"></a>
+</p>
 
-[![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-02569B?style=flat&logo=python&link=https://github.com/pranjulkulshrestha)](https://github.com/pranjulkulshrestha) 
-[![Pandas](https://img.shields.io/badge/-Pandas-02569B?style=flat&logo=pandas&link=https://github.com/pranjulkulshrestha)](https://github.com/pranjulkulshrestha)
-[![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-25CE8F?style=flat&logo=scikit-learn&link=https://github.com/pranjulkulshrestha)](https://github.com/pranjulkulshrestha)
-[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&link=https://github.com/pranjulkulshrestha)](https://github.com/pranjulkulshrestha)
+<p align="center">
+  <a href="https://github.com/pranjulkulshrestha"><img alt="Machine Learning" src="https://img.shields.io/badge/-Machine%20Learning-02569B?style=flat&logo=python&link=https://github.com/pranjulkulshrestha"></a>
+  <a href="https://github.com/pranjulkulshrestha"><img alt="Pandas" src="https://img.shields.io/badge/-Pandas-02569B?style=flat&logo=pandas&link=https://github.com/pranjulkulshrestha"></a>
+  <a href="https://github.com/pranjulkulshrestha"><img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit--Learn-25CE8F?style=flat&logo=scikit-learn&link=https://github.com/pranjulkulshrestha"></a>
+  <a href="https://github.com/pranjulkulshrestha"><img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&link=https://github.com/pranjulkulshrestha"></a>
+</p>
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/pranjulkulshrestha)](https://github.com/pranjulkulshrestha) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/pranjulkulshrestha)](https://github.com/pranjulkulshrestha)
+---
 
-### 📈 Stats and Achievements
+### 📈 GitHub Stats
 
-![Pranjul's github stats](https://github-readme-stats.vercel.app/api?username=pranjulkulshrestha&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+<p align="center">
+  <img alt="Pranjul's github stats" src="https://github-readme-stats.vercel.app/api?username=pranjulkulshrestha&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
+</p>
 
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjulkulshrestha&theme=dark" alt="pranjulkulshrestha" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjulkulshrestha&theme=dark" alt="pranjulkulshrestha" />
+</p>
 
 ---
 
@@ -46,5 +56,7 @@ Feel free to check out some of my **projects** and explore the work I'm doing to
 
 ### 🔍 Connect with Me
 
-- **LinkedIn**: [Pranjul Kulshrestha](https://www.linkedin.com/in/pranjul-kulshrestha-820496124)
-- **Email**: [pranjulkul@gmail.com](mailto:pranjulkul@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranjul-kulshrestha-820496124"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pranjul%20kulshrestha-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:pranjulkul@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pranjulkul@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
