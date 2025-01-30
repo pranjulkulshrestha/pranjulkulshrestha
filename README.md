@@ -10,7 +10,7 @@
 <br />
 <br />
 
-<img align="right" alt="GIF" src="[https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif](https://giphy.com/gifs/talk-dirty-to-me-similarweb-nerdy-SvckSy7fFviqrq8ClF)" />
+<img align="right" alt="GIF" src="(https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)" />
   
 ### 👨‍💻 Technologies I Use
 
