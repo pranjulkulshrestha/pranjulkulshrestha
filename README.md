@@ -1,4 +1,4 @@
-<h1 align="center"> नमस्ते : Namastey, I'm Pranjul Kulshrestha 😎</h1>
+<h1 align="center"> Namastey, I'm Pranjul Kulshrestha 😎</h1>
     
 ## Welcome to my world of Data Science and Analytics <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
@@ -10,7 +10,7 @@
 <br />
 <br />
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.tenor.com/images/0f07480175df7b5fdff5d5b92a8a98d5/tenor.gif" width="200" />
   
 ### 👨‍💻 Technologies I Use
 
